@@ -1,0 +1,3 @@
+[build]
+  command = "npm install retypeapp --global && retype build"
+  publish = ".retype"
