@@ -29,7 +29,7 @@ There are many ways you can get involved in expanding Kine’s ecosystem, such a
 ## How to apply:
 
 To become a Kinera Ambassador, please fill out your application
-[here](https:/kine.network).
+[here](https:/kinera.network).
 
 Find out more about the programme and how to join
-[here](https://kine.network).
+[here](https:/kinera.network).
